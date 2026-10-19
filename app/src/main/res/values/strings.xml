@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小浣熊</string>
+    <string name="app_subtitle">智谱清言 · 本地网关</string>
+
+    <string name="label_running">运行中</string>
+    <string name="label_stopped">已停止</string>
+    <string name="label_starting">启动中</string>
+
+    <string name="btn_start">启动网关</string>
+    <string name="btn_stop">停止网关</string>
+
+    <string name="section_account">账号配置</string>
+    <string name="hint_refresh_token">粘贴 refresh_token</string>
+    <string name="btn_save">保存令牌</string>
+    <string name="btn_verify">验证并获取账号</string>
+
+    <string name="section_endpoint">接入地址</string>
+    <string name="label_base_url">Base URL</string>
+    <string name="btn_copy">复制</string>
+
+    <string name="section_models">可用模型</string>
+    <string name="section_usage">使用说明</string>
+    <string name="section_stats">运行统计</string>
+    <string name="label_requests">累计请求</string>
+    <string name="label_last_error">最近错误</string>
+
+    <string name="notif_channel">网关服务</string>
+</resources>
