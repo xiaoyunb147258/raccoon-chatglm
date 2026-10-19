@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class dev.raccoon2api.** { *; }
+-dontwarn org.json.**
